@@ -1,0 +1,7 @@
+Portfolio web image export
+Source: D:\فرصت های مطالعاتی\تصاویر\web-ready\assets
+Output: D:\فرصت های مطالعاتی\تصاویر\web-ready\assets\web-ready
+----------------------------------------
+ERROR | بیم بک - هنرگه پویانمای محراب.mp4_20261123_213745.194.jpg | فایل خروجی ساخته نشد.
+----------------------------------------
+Succeeded: 0 | Failed: 1 | Above target: 0
